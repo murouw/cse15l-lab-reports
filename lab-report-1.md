@@ -7,8 +7,10 @@ Once you're finished installing VSCode, you should be able to open up a window t
 ![VSCode](VSCode.png)
 * Your screenshot may have a different color scheme or a different set of options, but the overall layout should still be the same. 
 
+
 ## Part 2: Remotely Connecting
 **Important:** Instructions are for students on a Mac.
+
 
 First, open a terminal on VSCode. Go the menu bar and click Terminal, then click "New Terminal". A terminal should open. 
 Type the command into the terminal, making sure to replace `zzz` with the letters in your specific username. Do not include the `$`. 
