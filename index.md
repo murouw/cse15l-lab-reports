@@ -1,4 +1,4 @@
-[Lab Report #1](https://murouw.github.io/cse15l-lab-reports/lab-report-1)
+[Lab Report #1](https://murouw.github.io/cse15l-lab-reports/lab1/lab-report-1)
 *AAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*
 **AAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHH**
 # AAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
