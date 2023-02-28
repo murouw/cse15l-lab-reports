@@ -27,7 +27,7 @@ I just typed the full thing out because for some reason, I don't think I had typ
 I knew I had compiled all the java files at somepoint, so I searched in my history for `javac` to do that. Next, I searched for a command that ran the tests, but it was the wrong file. I went to the end of the line using `<Ctrl-E>`, deleted the last word (AKA the wrong file name) using `<Ctrl-W>` and replaced it with `ListExamplesTests`. These commands ran and compiled the java tests, showing that there was one error. 
 
 
-## Step 4: Edit code
+## Step 4: Editing code
 ![nano](nano.png)
 
 **Keys:** `nano L, <tab>, .java, <enter>, <Ctrl-W>, return, <enter>, <up>, <up>, <right>, <right>, <right>, <right>, <right>, <right>, <backspace>, 2, <Ctrl-O>, <Ctrl-X>`
