@@ -6,6 +6,8 @@
 
 [Lab Report #4](https://murouw.github.io/cse15l-lab-reports/lab4/lab4-report)
 
+[Lab Report #5](https://murouw.github.io/cse15l-lab-reports/lab5/lab5-report)
+
 *AAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*
 **AAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHH**
 # AAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
